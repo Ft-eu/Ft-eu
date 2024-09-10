@@ -1,9 +1,9 @@
 # Who am I?
-## secundaire school
+## Secundaire school
 - applicatie en databeheer
 - derde graad
-## hobby's
+## Hobby's
 - Gevechtsport
 - gamen
-## muziek
+## Muziek
 - [Bruno Mars] https://www.brunomars.com/ 
